@@ -1,0 +1,4 @@
+Este es el documeto B.
+
+
+Esto es una prueba de que se puede trabajar con GIT.
